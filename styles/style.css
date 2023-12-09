@@ -124,6 +124,7 @@
 .two-columns__paragraph {
   margin: 0;
   padding: 0;
+
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
@@ -138,8 +139,34 @@
   margin: 30px 0;
 }
 
+.digits {
+  margin: 100px 0;
+}
+
+.section-title {
+  margin: 0 auto;
+  padding: 0;
+  width: 60%;
+
+  text-align: center;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.section-subtitle {
+  margin: 20px auto 0;
+  padding: 0;
+  width: 60%;
+
+  text-align: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
 .table {
-  margin: 0;
+  margin: 0 auto;
   padding: 0;
   width: 1100px;
 
@@ -159,11 +186,19 @@
 .heading {
   margin: 0;
   padding: 0;
+
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
 }
 
 .text {
   margin: 20px 0 0;
   padding: 0;
+
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
 }
 
 /* и элемента с модификатором вида ключ-значение */
