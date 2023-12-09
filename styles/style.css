@@ -202,10 +202,21 @@
   font-weight: normal;
 }
 
+.kaufman {
+  background-color: #1f1f1f;
+}
+
 /* и элемента с модификатором вида ключ-значение */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+}
+
+.cell_theme_dark {
+  margin-top: 80px;
+  width: 200px;
+
+  color: white;
 }
