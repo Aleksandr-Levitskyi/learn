@@ -13,9 +13,8 @@
   margin: 0;
   width: 228px;
   height: 32px;
-  position: absolute;
 
-  background-image: url(../images/logo_place_header.svg);
+  position: absolute;
 }
 
 .logo_place_header {
